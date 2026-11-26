@@ -1,0 +1,59 @@
+LA CAPA FÍSICA DEL MODELO OSI
+Ismael Muñoz · ITS N.º 3 · Redes de Datos
+
+ABRIR Y ENSAYAR
+1. Si recibiste el ZIP, elegí «Extraer todo» y guardá la carpeta en el Escritorio.
+2. Dentro de la carpeta capa-fisica, hacé doble clic en index.html.
+3. Usá un navegador actualizado, como Edge, Chrome o Firefox.
+4. Elegí Pantalla completa (o F11 en Windows). Mantené el zoom del navegador al 100 %.
+5. Usá Anterior / Siguiente o las flechas del teclado. Tab recorre los controles;
+   Enter o Espacio los activa. Escape cierra los detalles o la pantalla completa.
+
+Copiá SIEMPRE la carpeta completa: index.html, styles.css, script.js, credits.js
+y assets. Podés llevarla en un pendrive y abrirla en otra computadora.
+No hace falta instalar programas, iniciar un servidor ni tener conexión para
+ver la presentación. Los enlaces a las fuentes en Créditos sí requieren internet.
+
+RECORRIDO DE 8 MINUTOS
+Comenzá en la portada y cerrá en la pantalla de agradecimiento (FIN).
+1. El PDF (1 min): hacé la pregunta inicial; no reveles la respuesta.
+2. Bits y señales (2 min): avanzá tres veces «Paso siguiente» para completar
+   las cuatro etapas. Abrí Sincronización si querés mostrar la analogía.
+3. Medios (2 min): aproximadamente 30 segundos por medio.
+   Coaxil: Abrir el cable y señalar las capas.
+   Fibra: Ver el interior y Enviar luz.
+   Par trenzado: Ver los pares y Conectar.
+   Wi-Fi: Ver el enlace y Lejos.
+   La comparación puede reemplazar parte de la explicación (unos 15 segundos).
+4. Mi casa (2 min): seleccioná los tres enlaces. Mostrá una situación de falla.
+5. Cierre (1 min): preguntá al curso y tocá Revelar respuesta.
+
+«Explorar más» ofrece material para estudiar. No hace falta abrirlo todo durante
+la exposición. Elegí los detalles de antemano para no superar los 10 minutos.
+Las fotos son representativas; no muestran los equipos reales de Ismael.
+Las señales y conexiones son ilustrativas, no mediciones ni codificaciones reales.
+Los cuatro bits son un fragmento de ejemplo, no una trama completa.
+
+ARCHIVOS
+index.html: estructura de las siete pantallas (portada + cinco escenas + agradecimiento).
+styles.css: diseño para proyector y celulares.
+script.js: navegación, revelaciones e interacciones.
+credits.js: autores, fuentes y licencias de las nueve fotografías.
+assets/img/: fotografías locales.
+
+PUBLICACIÓN FUTURA
+La página no fue publicada. Cuando la revises, podés subir el contenido de esta
+carpeta a un repositorio de GitHub Pages, dejando index.html en la raíz de la
+carpeta publicada. Conservá assets y los archivos CSS y JS con sus nombres.
+El Word y los archivos de trabajo no están incluidos en el proyecto publicable.
+
+COMPROBACIONES
+Revisadas las cinco escenas de contenido, las cuatro opciones de medios, los puntos del
+coaxil y la fibra, los envíos repetibles, la comparación, las situaciones de casa,
+la respuesta final, los créditos y la navegación por teclado.
+Verificada la resolución 1366 x 768 y la vista móvil 390 x 844.
+No se detectaron errores de JavaScript durante la prueba en navegador.
+Todas las imágenes y recursos de funcionamiento están incluidos localmente.
+Limitación: el navegador automatizado no admite file://; la prueba interactiva
+se realizó con un servidor local. Se verificaron las rutas y la ausencia de
+dependencias de red, pero queda pendiente el ensayo manual con doble clic.
